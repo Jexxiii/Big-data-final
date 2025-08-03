@@ -41,7 +41,7 @@ Here is a comprehensive `README.md` file based on the contents of your PowerPoin
   * Pivoted/renamed columns
   * Removed missing or incomplete years
   * Cleaned and reshaped dataset
-
+ ![](./data%20cleaning.png)
 ---
 
 ## 📈 Visualizations
@@ -57,7 +57,7 @@ Here is a comprehensive `README.md` file based on the contents of your PowerPoin
 * **Page 1**: Trends Overview
 * **Page 2**: Forecasting (using time series modeling)
 * **Page 3**: KPI Cards
-
+![](./KPI%20Cards.png)
 ---
 
 ## 📍 Key Insights
