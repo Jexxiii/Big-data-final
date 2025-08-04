@@ -51,6 +51,9 @@ Here is a comprehensive `README.md` file based on the contents of your PowerPoin
 * Line Chart: Agricultural Value Added (USD)
 * Line Chart: Annual Growth Percent
 * Area Chart: Share of Economy (%)
+  <img width="1065" height="480" alt="page 1" src="https://github.com/user-attachments/assets/84b5846c-5bbc-4248-9189-3c7b110c4312" />
+<img width="1049" height="454" alt="page 2" src="https://github.com/user-attachments/assets/4a90c711-f4e0-45e5-826c-3055bb478c46" />
+
 
 ### 💼 Power BI Dashboards
 
